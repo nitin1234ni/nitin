@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/nitin/static/css/main.6c4e5cbe.css",
+    "main.js": "/nitin/static/js/main.e4c72fd8.js",
+    "static/media/work-1 (1).png": "/nitin/static/media/work-1 (1).9d70c2239b9cefe78a18.png",
+    "static/media/work-2.png": "/nitin/static/media/work-2.893b3d33cde47ed0012c.png",
+    "static/media/work-3.png": "/nitin/static/media/work-3.de1df78bf5ca74ec3063.png",
+    "static/media/work-4.png": "/nitin/static/media/work-4.cb9100dc3e1ddfe34f51.png",
+    "index.html": "/nitin/index.html",
+    "main.6c4e5cbe.css.map": "/nitin/static/css/main.6c4e5cbe.css.map",
+    "main.e4c72fd8.js.map": "/nitin/static/js/main.e4c72fd8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c4e5cbe.css",
+    "static/js/main.e4c72fd8.js"
+  ]
+}
